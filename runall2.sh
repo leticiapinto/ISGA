@@ -8,10 +8,10 @@ for k in 1 2 ; do
 			./ig.out  ../Datasets/1000_75/1000_75_${i}.dat >> 1000_75_${i}.txt
 			./ig.out  ../Datasets/1000_100/1000_100_${i}.dat >> 1000_100_${i}.txt
 
-			./ig.out  ../Datasets/2000_25/2000_25_${i}.dat >> 2000_25_${i}.txt
-			./ig.out  ../Datasets/2000_50/2000_50_${i}.dat >> 2000_50_${i}.txt
-			./ig.out  ../Datasets/2000_75/2000_75_${i}.dat >> 2000_75_${i}.txt
-			./ig.out  ../Datasets/2000_100/2000_100_${i}.dat >> 2000_100_${i}.txt
+			#./ig.out  ../Datasets/2000_25/2000_25_${i}.dat >> 2000_25_${i}.txt
+			#./ig.out  ../Datasets/2000_50/2000_50_${i}.dat >> 2000_50_${i}.txt
+			#./ig.out  ../Datasets/2000_75/2000_75_${i}.dat >> 2000_75_${i}.txt
+			#./ig.out  ../Datasets/2000_100/2000_100_${i}.dat >> 2000_100_${i}.txt
 		done
 	done
 done
